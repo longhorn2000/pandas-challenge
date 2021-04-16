@@ -1,0 +1,15 @@
+Heroes Of Pymoli Data Analysis
+
+There were some trends in the data:
+
+1. The item that most benefited the company was: Final Critic. Not only was the item purchased the most (13 times) 
+   but it also had the greatest total purchase value ($59.99).
+
+2. The vast majority of players were male, however, they spent the least per person, on average ($4.07). 
+   Also largest age group 20-24 make up over 44%
+
+3. Of the $2379.77 earned by the company, $1114.06 was earned on purchases made by players between 20 - 24 years old. 
+
+The next highest spending age group was 15 - 19 years old ($412.89) and the 
+
+third highest spenders were players between 25 and 29 years old ($293.00).
